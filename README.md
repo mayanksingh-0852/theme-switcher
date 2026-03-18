@@ -54,8 +54,7 @@ src/
 
 ## 🔗 GitHub Repository
 
-👉 https://github.com/mayanksingh-0852/web-page-by-react
-
+👉 https://github.com/mayanksingh-0852/theme-switcher
 ---
 
 ## 📌 Future Improvements
