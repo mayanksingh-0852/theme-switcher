@@ -64,7 +64,6 @@ src/
 * Improve animations
 
 ---
-
 ## 🙌 Author
 
 **Mayank Singh**
