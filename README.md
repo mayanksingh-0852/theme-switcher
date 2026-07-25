@@ -24,7 +24,9 @@ It allows users to toggle between **Light Mode** and **Dark Mode** across the en
 
 ## ⚙️ Tech Stack
 
-
+* React.js
+* JavaScript
+* Tailwind CSS
 
 ---
 
